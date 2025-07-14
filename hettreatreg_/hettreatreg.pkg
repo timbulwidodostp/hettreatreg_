@@ -1,4 +1,0 @@
-D 'hettreatreg': Diagnostics for linear regression when treatment effects are heterogeneous Use hettreatreg With STATA 19
-D
-F hettreatreg.ado
-F hettreatreg.sthlp

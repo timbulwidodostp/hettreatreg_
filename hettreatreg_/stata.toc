@@ -1,5 +1,0 @@
-0
-1
-2
-3
-p hettreatreg Diagnostics for linear regression when treatment effects are heterogeneous Use hettreatreg With STATA 19
